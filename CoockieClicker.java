@@ -35,6 +35,7 @@ public class CoockieClicker {
 	//main
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// testi simo kissa 123
 		Helper1 t1 = new Helper1();
 		Clicker1 c1 = new Clicker1();
 		c1.start();
